@@ -16,5 +16,5 @@ The algorithms were proposed by the following articles and are NOT my results.
 [1] Phan, Anh Huy, and Andrzej Cichocki. "Tensor decompositions for feature extraction and classification of high dimensional datasets." Nonlinear theory and its applications, IEICE 1.1 (2010): 37-68.    
 [2] Bengua, Johann A., Ho N. Phien, and Hoang D. Tuan. "Optimal feature extraction and classification of tensors via matrix product state decomposition." Big Data (BigData Congress), 2015 IEEE International Congress on. IEEE, 2015.   
 The script uses the libraries above in addition to the function that is included as appendix of the following paper:  
-[3] [ncon](https://arxiv.org/abs/1402.0939)   
+[3] Pfeifer, Robert NC, et al. "NCON: A tensor network contractor for MATLAB." arXiv preprint arXiv:1402.0939 (2014).[(link)](https://arxiv.org/abs/1402.0939)   
 
