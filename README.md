@@ -12,7 +12,7 @@ $git clone git@github.com:YoshiHotta/tensorFeatureExtraction.git
 5. Run script files (src/*_script.m)  
 
 Credits.  
-The algorithms were proposed by the following articles and are NOT my results.  
+The algorithms were proposed in the following articles and are NOT my results.  
 [1] Phan, Anh Huy, and Andrzej Cichocki. "Tensor decompositions for feature extraction and classification of high dimensional datasets." Nonlinear theory and its applications, IEICE 1.1 (2010): 37-68.    
 [2] Bengua, Johann A., Ho N. Phien, and Hoang D. Tuan. "Optimal feature extraction and classification of tensors via matrix product state decomposition." Big Data (BigData Congress), 2015 IEEE International Congress on. IEEE, 2015.   
 The script uses the libraries above in addition to the function that is included as appendix of the following paper:  
