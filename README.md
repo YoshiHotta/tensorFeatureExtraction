@@ -8,7 +8,7 @@ Installation:
 2. Install [Tensor Toolbox](http://www.sandia.gov/~tgkolda/TensorToolbox/).  
 3. Install [TT-Toolbox](https://github.com/oseledets/TT-Toolbox).
 4. clone our code:  
-$git clone git@github.com:YoshiHotta/tensorFeatureExtraction.git  
+```$git clone git@github.com:YoshiHotta/tensorFeatureExtraction.git```  
 5. Run script files (src/*_script.m)  
 
 Credits.  
